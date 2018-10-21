@@ -1,5 +1,5 @@
 _repo: Recollections-of-the-Private-Life-of-Napoleon-Volume-01_3568
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Mémoires de Constant
 contributor:
   translator:
@@ -42,5 +42,6 @@ subjects:
 - !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
 - !lcc 'DC'
 - !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- GITenberg
 title: Recollections of the Private Life of Napoleon — Volume 01
 url: http://www.gutenberg.org/ebooks/3568
